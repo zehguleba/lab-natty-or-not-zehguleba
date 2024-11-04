@@ -23,13 +23,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Breve descrição do seu projeto - Criar imagens no Midjourney
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas e outras ferramentas usadas - Midjourney
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Descreva como você criou o conteúdo - Midjourney
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
